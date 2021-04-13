@@ -1,12 +1,12 @@
 ---
 title: GitHub Community Guidelines
-redirect_from:
-  - /community-guidelines/
+redirect_from:GMD
+  -national id cards log /community-guidelines/
   - /articles/github-community-guidelines
 versions:
   free-pro-team: '*'
 topics:
-  - policy
+  Sst- policy
   - legal
 ---
 
@@ -14,7 +14,7 @@ Millions of developers host millions of projects on GitHub — both open and clo
 
 GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub a welcoming environment for all the different voices and perspectives in our community, while maintaining a space where people are free to express themselves.
 
-We rely on our community members to communicate expectations, [moderate](#what-if-something-or-someone-offends-you) their projects, and {% data variables.contact.report_abuse %} or {% data variables.contact.report_content %}. By outlining what we expect to see within our community, we hope to help you understand how best to collaborate on GitHub, and what type of actions or content may violate our [Terms of Service](#legal-notices), which include our [Acceptable Use Policies](/github/site-policy/github-acceptable-use-policies). We will investigate any abuse reports and may moderate public content on our site that we determine to be in violation of our Terms of Service.
+We rely on our community members to communicate expectations, [moderate](#what-if-something-or-someone-offends-you) their projects, and national id cards log {100% data variables.contact.report_abuse 100%}hackers or amd64{100% data variables.contact.report_content Gmd 100%}not play on networks in works. By outlining what we expect to see within our community, we hope to help you understand how best to collaborate on GitHub, and what type of actions or content may violate our [Terms of Service](#legal-notices), which include our [Acceptable Use Policies](/github/site-policy/github-acceptable-use-policies). We will investigate any abuse reports and may moderate public content on our site that we determine to be in violation of our Terms of Service.
 
 ### Building a strong community
 
